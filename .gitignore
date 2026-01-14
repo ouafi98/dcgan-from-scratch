@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+.env
+.venv
+venv/
+
+# Data
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs
+output/
+*.png
+*.gif
+
+# Logs
+training_log.csv
+
+# OS
+.DS_Store
