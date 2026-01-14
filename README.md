@@ -1,7 +1,3 @@
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/ouafi98/dcgan-from-scratch/blob/main/notebooks/dcgan_demo.ipynb)
-
 # DCGAN from Scratch
 
 From-scratch PyTorch implementation of a Deep Convolutional GAN (DCGAN) on MNIST dataset,
