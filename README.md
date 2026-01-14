@@ -17,9 +17,17 @@ with detailed logging, diagnostics, and reproducible training.
 
 Samples generated from a fixed latent vector during training:
 
-![Epoch 1](s/epoch_001.png)
-![Epoch 5](images/epoch_005.png)
-![Epoch 10](images/epoch_010.png)
+![Epoch 1](output/samples/epoch_001.png)
+![Epoch 5](output/samples/epoch_005.png)
+![Epoch 10](output/samples/epoch_010.png)
+
+## Training Curves
+
+### GAN Losses
+![Training losses](training_losses.png)
+
+### Discriminator confidence
+![Discriminator confidence](discriminator_confidence.png)
 
 ## Notes
 GAN losses do not directly correlate with image quality.
