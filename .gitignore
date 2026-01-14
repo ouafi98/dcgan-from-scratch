@@ -14,9 +14,7 @@ data/
 .ipynb_checkpoints/
 
 # Outputs
-output/
-*.png
-*.gif
+
 
 # Logs
 training_log.csv
