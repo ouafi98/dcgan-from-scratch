@@ -18,7 +18,7 @@ with detailed logging, diagnostics, and reproducible training.
 
 Below is the evolution of the generator output using a fixed latent vector:
 
-| Epoch 1 | Epoch 10 | Epoch 30 |
+| Epoch 1 | Epoch 5 | Epoch 10 |
 |--------|----------|----------|
 | ![](output/samples/epoch_001.png) | ![](output/samples/epoch_005.png) | ![](output/samples/epoch_010.png) |
 
