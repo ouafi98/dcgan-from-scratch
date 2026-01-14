@@ -13,6 +13,14 @@ with detailed logging, diagnostics, and reproducible training.
 ## Dataset
 - MNIST (28×28)
 
+## Generated Samples
+
+Samples generated from a fixed latent vector during training:
+
+![Epoch 1](s/epoch_001.png)
+![Epoch 5](images/epoch_005.png)
+![Epoch 10](images/epoch_010.png)
+
 ## Notes
 GAN losses do not directly correlate with image quality.
 Training progress is assessed primarily via fixed-latent image grids.
