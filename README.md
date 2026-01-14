@@ -13,13 +13,14 @@ with detailed logging, diagnostics, and reproducible training.
 ## Dataset
 - MNIST (28×28)
 
-## Generated Samples
 
-Samples generated from a fixed latent vector during training:
+## Fixed Latent Samples
 
-![Epoch 1](output/samples/epoch_001.png)
-![Epoch 5](output/samples/epoch_005.png)
-![Epoch 10](output/samples/epoch_010.png)
+Below is the evolution of the generator output using a fixed latent vector:
+
+| Epoch 1 | Epoch 10 | Epoch 30 |
+|--------|----------|----------|
+| ![](output/samples/epoch_001.png) | ![](output/samples/epoch_005.png) | ![](output/samples/epoch_010.png) |
 
 ## Training Curves
 
