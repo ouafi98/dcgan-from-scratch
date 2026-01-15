@@ -29,7 +29,3 @@ Below is the evolution of the generator output using a fixed latent vector:
 
 ### Discriminator confidence
 ![Discriminator confidence](discriminator_confidence.png)
-
-## Notes
-GAN losses do not directly correlate with image quality.
-Training progress is assessed primarily via fixed-latent image grids.
