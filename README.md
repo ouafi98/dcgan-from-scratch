@@ -1,4 +1,4 @@
-# DCGAN from Scratch
+# DCGAN and Conditioned GAN (CDCGAN) from Scratch
 
 From-scratch PyTorch implementation of a Deep Convolutional GAN (DCGAN) on MNIST dataset,
 with detailed logging, diagnostics, and reproducible training.
@@ -29,3 +29,7 @@ Below is the evolution of the generator output using a fixed latent vector:
 
 ### Discriminator confidence
 ![Discriminator confidence](discriminator_confidence.png)
+
+
+## CDCGAN
+- Look into the associated notebook (CDCGAN.ipynb)
